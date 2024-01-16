@@ -1,0 +1,2 @@
+# Lazysan
+My neovim configuration
