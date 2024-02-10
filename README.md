@@ -1,4 +1,4 @@
-# LazyVi
+# Lazy 'n Vi
 My custom Neovim configuration based on LazyVim.
 
 ## Custom plugins
