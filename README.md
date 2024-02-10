@@ -1,4 +1,6 @@
-# Lazy 'n Vi
+# Lazysan
+_**This repo is archived and no longer hosted on github, go to [LazyViM on sourcehut](https://git.sr.ht/~darumaka/LazyViM)**_
+
 My custom Neovim configuration based on LazyVim.
 
 ## Custom plugins
